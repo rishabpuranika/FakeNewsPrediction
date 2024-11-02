@@ -1,15 +1,15 @@
 # FakeNewsPrediction
 
 ## Table of Contents 
-1. [Fake News Detection System](#fake-news-detection-system)
-2. [Features](#features)
-3. [File Structure](#file-structure)
-4. [Installing Required Packages](#installing-required-packages)
-5. [Dataset](#dataset)
-6. [Usage](#usage)
-7. [Run the application](#run-the-application)
-8. [Project Overview](#project-overview)
-9. [License](#license)
+1. [Fake News Detection System](##fake-news-detection-system)
+2. [Features](##features)
+3. [File Structure](##file-structure)
+4. [Installing Required Packages](##installing-required-packages)
+5. [Dataset](##dataset)
+6. [Usage](##usage)
+7. [Run the application](##run-the-application)
+8. [Project Overview](##project-overview)
+9. [License](##license)
 
 ## Fake News Detection System <a name="Fake News Detection System"></a>
 A Python-based application to detect fake news using Natural Language Processing (NLP) and machine learning techniques. This project uses logistic regression on TF-IDF vectorized text data to predict whether a given news article is real or fake. The application is built with Streamlit for a web interface and relies on scikit-learn for machine learning.
